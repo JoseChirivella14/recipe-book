@@ -3,7 +3,6 @@ import { NgForm } from '@angular/forms';
 import { ShoppingListService } from '../../services/shopping-list';
 import { Ingredient } from '../../models/ingredient';
 
-
 @Component({
   selector: 'page-shopping-list',
   templateUrl: 'shopping-list.html',
